@@ -1,4 +1,6 @@
 *.swp
+*.exe
+*.pdb
 target/
 **/*.rs.bk
 .DS_Store
